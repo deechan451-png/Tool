@@ -1,0 +1,6 @@
+{
+  "name": "Khmer AI Movie Translator Pro",
+  "description": "Professional subtitle translation and audio dubbing workflow to Khmer, featuring Gemini AI translation, timing preservation, and a downloadable Python 3.12 workspace foundation with FFmpeg integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
